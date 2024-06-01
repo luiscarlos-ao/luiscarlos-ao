@@ -101,3 +101,9 @@ I'm starting to develop skills in Front-End and Back-End programming as a Full S
 - 📫 Como entrar em contato comigo / How to reach me: Só verificar as badges no topo deste readme 😬.
 - 😄 Pronomes / Pronouns: Ele/dele.
 - ⚡ Curiosidade / Fun fact: Aprendendo a programar 🫡.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiscarlos-ao/luiscarlos-ao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiscarlos-ao/luiscarlos-ao/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luiscarlos-ao/luiscarlos-ao/output/github-contribution-grid-snake.svg">
+</picture>
