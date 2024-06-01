@@ -82,11 +82,9 @@ I'm starting to develop skills in Front-End and Back-End programming as a Full S
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## :gear: &nbsp;GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luiscarlos-ao&show_icons=true&theme=nord)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luiscarlos-ao&theme=nord&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luiscarlos-ao&show_icons=true&theme=nord) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luiscarlos-ao&theme=nord&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiscarlos-ao&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiscarlos-ao&hide=Html&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luiscarlos-ao&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiscarlos-ao&hide=Html&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luiscarlos-ao&theme=nord_dark)
 
 ## 🏆 Troféus GitHub / GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=luiscarlos-ao&theme=radical&no-frame=false&no-bg=true&margin-w=4)
