@@ -27,7 +27,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCBLWDYQ7wQXa4M0rZKt3AnA)](https://www.youtube.com/channel/UCBLWDYQ7wQXa4M0rZKt3AnA)
 [![YouTube Music Badge](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white&link=https://music.youtube.com/channel/UCBLWDYQ7wQXa4M0rZKt3AnA)](https://music.youtube.com/channel/UCBLWDYQ7wQXa4M0rZKt3AnA) 
 
-🤖 Sobre mim / About me
+## 🤖 Sobre mim / About me
 
 Sou brasileiro, nascido em Brasília, tenho 40 anos e trabalho com TI, focado em CyberSecurity. Além disso, sou aficionado por jogos eletrônicos, videogames e e-sports.
 
