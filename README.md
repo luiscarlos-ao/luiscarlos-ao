@@ -42,6 +42,7 @@ Minhas áreas de atuação incluem:
 🛡️ Cloud Security / Saas
 🛡️ EDR, MDR, XDR, MXDR, SOAR e MSSP
 🛡️ Email Security, Antivirus, DLP
+🛡️ Cofre de Senha, PAM, IAM
 🛡️ SOC
 🛡️ CSIRT
 🛡️ SIEM
@@ -65,6 +66,7 @@ My areas of expertise include:
 🛡️ Cloud Security / Saas
 🛡️ EDR, MDR, XDR, MXDR, SOAR and MSSP
 🛡️ Email Security, Antivirus, DLP
+🛡️ Cofre de Senha, PAM, IAM
 🛡️ SOC
 🛡️ CSIRT
 🛡️ SIEM
@@ -93,13 +95,13 @@ I'm starting to develop skills in Front-End and Back-End programming as a Full S
 ## 👦🏻 Curiosidades / Curiosities
 
 - 🔭 Atualmente estou trabalhando com / I’m currently working on: Cybersecurity.
-- 🌱 Atualmente estou aprendendo / I’m currently learning: Habilidades nas ferramentas da fabricante Trend Micro.
-- 👯 Procuro colaborar em / I’m looking to collaborate on: Quaisquer assunto relacionado a TI.
-- 🤔 Estou procurando ajuda com / I’m looking for help with: Desenvolvimento (Front-End / Back-End)=> Full Stack Developer com ênfase em AppSec (Application Security).
-- 💬 Pergunte-me sobre / Ask me about: O mundo de segurança da informação, cybersecurity e etc.
-- 📫 Como entrar em contato comigo / How to reach me: Só verificar as badges no topo deste readme 😬.
-- 😄 Pronomes / Pronouns: Ele/dele.
-- ⚡ Curiosidade / Fun fact: Aprendendo a programar 🫡.
+- 🌱 Atualmente estou aprendendo / I’m currently learning: Habilidades nas ferramentas da fabricante Trend Micro / Skills in tools from the manufacturer Trend Micro.
+- 👯 Procuro colaborar em / I’m looking to collaborate on: Quaisquer assunto relacionado a TI / Any IT-related matter.
+- 🤔 Estou procurando ajuda com / I’m looking for help with: Desenvolvimento (Front-End / Back-End)=> Full Stack Developer com ênfase em AppSec (Application Security) / Development (Front-End / Back-End) => Full Stack Developer with an emphasis on AppSec (Application Security).
+- 💬 Pergunte-me sobre / Ask me about: O mundo de segurança da informação, cybersecurity e etc / The world of information security, cybersecurity, etc.
+- 📫 Como entrar em contato comigo / How to reach me: Só verificar as badges no topo deste readme 😬 / Just check the badges at the top of this readme 😬.
+- 😄 Pronomes / Pronouns: Ele/dele / He/him.
+- ⚡ Curiosidade / Fun fact: Aprendendo a programar 🫡 / Learning to program 🫡.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiscarlos-ao/luiscarlos-ao/output/github-contribution-grid-snake-dark.svg">
