@@ -29,7 +29,7 @@
 
 ## 🤖 Sobre mim / About me
 
-Sou brasileiro, nascido em Brasília, tenho 40 anos e trabalho com TI, focado em CyberSecurity. Além disso, sou aficionado por jogos eletrônicos, videogames e e-sports.
+Sou brasileiro, nascido em Brasília, tenho 42 anos e trabalho com TI, focado em CyberSecurity. Além disso, sou aficionado por jogos eletrônicos, videogames e e-sports.
 
 Possuo conhecimento e atuação em projetos de Segurança da Informação e Cybersecurity. Tenho experiência na criação e revisão de Políticas, Normas e Procedimentos de Segurança da Informação, além de assessments de segurança da informação e cibernética utilizando frameworks de mercado, como NIST Cybersecurity Framework, CIS Controls, MITRE ATT&CK, ISO 27001:2022, ISO 27002:2013, ISO 27005:2019, ISO 27032:2015, ISO 27701:2019 e COBIT Focus Area: Information Security Using COBIT 2019.
 
